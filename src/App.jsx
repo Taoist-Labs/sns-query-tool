@@ -2,6 +2,7 @@ import MainQuery from "./components/MainQuery";
 import { Box, Container, Heading } from "@radix-ui/themes";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import "./index.css";
 
 function App() {
   return (
